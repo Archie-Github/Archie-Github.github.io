@@ -1,0 +1,25 @@
+{
+	"name": "Multiplayer chat example",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "com.mycompany.myapp",
+	"unique-id": "b0axr2hcqa5",
+	"viewport-width": 640,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "http://",
+	"orientations": "any",
+	"c2version": "244",
+	"c3version": "r268",
+	"ife": true,
+	"used-plugins": [
+		"Text",
+		"TextBox",
+		"Button",
+		"List",
+		"Multiplayer",
+		"Keyboard"
+	],
+	"used-behaviors": []
+}
